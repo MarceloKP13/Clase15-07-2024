@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio IMC\obj\Debug\Ejercicio IMC.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio IMC\obj\Debug\Ejercicio IMC.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio IMC\bin\Debug\Ejercicio IMC.exe.config
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio IMC\bin\Debug\Ejercicio IMC.exe
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio IMC\bin\Debug\Ejercicio IMC.pdb
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio IMC\obj\Debug\Ejercicio IMC.exe
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio IMC\obj\Debug\Ejercicio IMC.pdb

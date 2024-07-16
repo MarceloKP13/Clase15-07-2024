@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio DIASEMANA\obj\Debug\Ejercicio DIASEMANA.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio DIASEMANA\obj\Debug\Ejercicio DIASEMANA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio DIASEMANA\bin\Debug\Ejercicio DIASEMANA.exe.config
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio DIASEMANA\bin\Debug\Ejercicio DIASEMANA.exe
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio DIASEMANA\bin\Debug\Ejercicio DIASEMANA.pdb
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio DIASEMANA\obj\Debug\Ejercicio DIASEMANA.exe
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicio DIASEMANA\obj\Debug\Ejercicio DIASEMANA.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Clase 15-07-2024\Resumen Unidad 1\bin\Debug\Resumen Unidad 1.exe.config
+C:\Users\user\source\repos\Clase 15-07-2024\Resumen Unidad 1\bin\Debug\Resumen Unidad 1.exe
+C:\Users\user\source\repos\Clase 15-07-2024\Resumen Unidad 1\bin\Debug\Resumen Unidad 1.pdb
+C:\Users\user\source\repos\Clase 15-07-2024\Resumen Unidad 1\obj\Debug\Resumen Unidad 1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Clase 15-07-2024\Resumen Unidad 1\obj\Debug\Resumen Unidad 1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Clase 15-07-2024\Resumen Unidad 1\obj\Debug\Resumen Unidad 1.exe
+C:\Users\user\source\repos\Clase 15-07-2024\Resumen Unidad 1\obj\Debug\Resumen Unidad 1.pdb

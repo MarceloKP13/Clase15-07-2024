@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Clase 15-07-2024\Sentencia ELSE IF\obj\Debug\Sentencia ELSE IF.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Clase 15-07-2024\Sentencia ELSE IF\obj\Debug\Sentencia ELSE IF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Clase 15-07-2024\Sentencia ELSE IF\bin\Debug\Sentencia ELSE IF.exe.config
+C:\Users\user\source\repos\Clase 15-07-2024\Sentencia ELSE IF\bin\Debug\Sentencia ELSE IF.exe
+C:\Users\user\source\repos\Clase 15-07-2024\Sentencia ELSE IF\bin\Debug\Sentencia ELSE IF.pdb
+C:\Users\user\source\repos\Clase 15-07-2024\Sentencia ELSE IF\obj\Debug\Sentencia ELSE IF.exe
+C:\Users\user\source\repos\Clase 15-07-2024\Sentencia ELSE IF\obj\Debug\Sentencia ELSE IF.pdb

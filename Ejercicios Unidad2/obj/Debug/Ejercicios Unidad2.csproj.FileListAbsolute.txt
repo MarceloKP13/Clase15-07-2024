@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicios Unidad2\bin\Debug\Ejercicios Unidad2.exe.config
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicios Unidad2\bin\Debug\Ejercicios Unidad2.exe
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicios Unidad2\bin\Debug\Ejercicios Unidad2.pdb
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicios Unidad2\obj\Debug\Ejercicios Unidad2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicios Unidad2\obj\Debug\Ejercicios Unidad2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicios Unidad2\obj\Debug\Ejercicios Unidad2.exe
+C:\Users\user\source\repos\Clase 15-07-2024\Ejercicios Unidad2\obj\Debug\Ejercicios Unidad2.pdb
